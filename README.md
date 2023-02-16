@@ -18,9 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.png)
 
+
 ### Links
 
-- Solution URL: [https://jedix.github.io/fm-qr-code-component/](https://jedix.github.io/fm-qr-code-component/)
+- Solution URL: [https://github.com/jedix/fm-qr-code-component](https://github.com/jedix/fm-qr-code-component)
+- Live Site URL: [https://jedix.github.io/fm-qr-code-component/](https://jedix.github.io/fm-qr-code-component/)
+
 
 ## My process
 
